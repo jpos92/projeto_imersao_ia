@@ -1,11 +1,11 @@
-# INDENTIFICAÇÃO DE FRAUDES EM PROCESSOS LICITATÓRIOS
+# :rotating_light: INDENTIFICAÇÃO DE FRAUDES EM PROCESSOS LICITATÓRIOS :rotating_light:
 
 # Problemática
 
 O combate aos atos de corrupção e improbidade na administração pública brasileira é uma questão de grande importância e complexidade.
-Um dos principais problemas da atualidade é a dificuldade em lidar com a imensa quantidade de informações. Conseguir identificar o que realmente importa em meio ao turbilhão de dados a que temos acesso diariamente é um desafio não apenas para o cidadão comum, mas também para os órgãos de fiscalização
+Um dos principais problemas da atualidade é a dificuldade em lidar com a imensa quantidade de informações. Conseguir identificar o que realmente importa em meio ao turbilhão de dados a que temos acesso diariamente é um desafio não apenas para o cidadão comum, mas também para os órgãos de fiscalização.
 
-# ARGOS AI
+# :male_detective: ARGOS AI :male_detective:
 
 # Introdução
 
