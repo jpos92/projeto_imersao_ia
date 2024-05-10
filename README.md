@@ -29,7 +29,7 @@ Para utilizar o projeto, siga estas etapas:
 # Observações
 
     O projeto simula possíveis situações do mundo real em escala reduzida.
-    Esse projeto opera no mundo das licitações envolvendo medicamentos, mas pode ser expandido para qualquer outras área. 
+    O projeto opera no mundo das licitações envolvendo medicamentos, mas pode ser expandido para qualquer outras área. 
     O projeto ainda está em desenvolvimento e pode ser aprimorado com a adição de novas funcionalidades e a otimização do código.
     É importante ter em mente que os resultados gerados pelo modelo de IA são apenas sugestões e devem ser analisados por um especialista antes de serem tomados como decisões definitivas.
 
