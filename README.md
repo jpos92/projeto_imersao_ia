@@ -1,5 +1,5 @@
 # ARGOS AI
-# Projeto de Imersão em IA
+# Indentificação de fraudes em processos licitatórios
 
 # Introdução
 
